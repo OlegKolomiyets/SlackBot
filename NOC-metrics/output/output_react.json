@@ -1,0 +1,31 @@
+evvvvvvent {
+    'token': 'vpRixSivsr44UmWr8DWIcqtt', 
+    'team_id': 'T03R3RK9B97', 
+    'api_app_id': 'A03QN8FT62Z', 
+    'event': {
+        'type': 'reaction_added', 
+        'user': 'U03QR6M7M5G', 
+        'reaction': 'eyes', 
+        'item': {
+            'type': 'message', 
+            'channel': 'D03QJJPRD9U', 
+            'ts': '1659390199.761659'
+        }, 
+        'item_user': 'U03QR6M7M5G', 
+        'event_ts': '1659390236.003100'
+    }, 
+    'type': 'event_callback', 
+    'event_id': 'Ev03RZ0HV5J8', 
+    'event_time': 1659390236, 
+    'authorizations': [
+        {
+            'enterprise_id': None, 
+            'team_id': 'T03R3RK9B97', 
+            'user_id': 'U03QN8HHVGD', 
+            'is_bot': True, 
+            'is_enterprise_install': False
+        }
+    ], 
+    'is_ext_shared_channel': False, 
+    'event_context': '4-eyJldCI6InJlYWN0aW9uX2FkZGVkIiwidGlkIjoiVDAzUjNSSzlCOTciLCJhaWQiOiJBMDNRTjhGVDYyWiIsImNpZCI6IkQwM1FKSlBSRDlVIn0'
+}

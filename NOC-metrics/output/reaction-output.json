@@ -1,0 +1,60 @@
+{
+    "ok": true,
+    "type": "message",
+    "message": {
+        "client_msg_id": "096c1afe-38c7-42b3-a418-e0772432720e",
+        "type": "message",
+        "text": "1659048390.111549",
+        "user": "U03QR6M7M5G",
+        "ts": "1659051016.433399",
+        "team": "T03R3RK9B97",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BgrP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1659048390.111549"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QN8HHVGD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eye",
+                "users": [
+                    "U03QN8HHVGD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U03QN8HHVGD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03QR6M7M5G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    "channel": "D03QJJPRD9U"
+}
